@@ -1,0 +1,34 @@
+<?php
+//$url = 'http://localhost:8000/api/categorias';
+//$apicategory = json_decode(file_get_contents($url));
+//
+//?>
+<h1>Lista de Categorias</h1>
+
+<table class="table table-striped table-hover">
+    <thead class="thead-dark">
+    <tr>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Descrição</th>
+        <th>Imagem</th>
+        <th>Ações</th>
+    </tr>
+    </thead>
+    <tbody>
+        <?php
+            foreach ($categories as $category)
+                echo " <tr>
+                            <td>{$category->getId()}</td>
+                            <td>{$category->getName()}</td>
+                            <td>{$category->getDescription()}</td>
+                            <td><img width='100px' src='{$category->getImage()}' alt='...'></td>
+                            <td>
+                                <a href='#' class='btn btn-warning btn-sm'>Editar</a>
+                                <a href='/categorias/excluir?id={$category->getId()}' class='btn btn-danger btn-sm'>Excluir</a>
+                            </td>
+                       </tr>
+                "
+        ?>
+    </tbody>
+</table>

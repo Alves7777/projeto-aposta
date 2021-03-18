@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="893bc15c-7ede-49aa-bb9d-72b1fab53589" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controller/AuthenticationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controller/AuthenticationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controller/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controller/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/user/profile.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/views/user/profile.phtml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1pRVyZ0fnKGVyCM0cstK1uwGZr6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/views/bid" />
+      <recent name="$PROJECT_DIR$/views/user" />
+      <recent name="$PROJECT_DIR$/views/bet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="893bc15c-7ede-49aa-bb9d-72b1fab53589" name="Default Changelist" comment="" />
+      <created>1615146153751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615146153751</updated>
+      <workItem from="1615146156855" duration="6315000" />
+      <workItem from="1615250810333" duration="1220000" />
+      <workItem from="1615338327779" duration="476000" />
+      <workItem from="1615665841297" duration="2930000" />
+      <workItem from="1615670137040" duration="14653000" />
+      <workItem from="1615735957055" duration="3664000" />
+      <workItem from="1615771092684" duration="3441000" />
+      <workItem from="1615921579757" duration="1355000" />
+      <workItem from="1615946202637" duration="4083000" />
+      <workItem from="1615981553463" duration="5313000" />
+      <workItem from="1616031479255" duration="3284000" />
+      <workItem from="1616066750497" duration="1801000" />
+      <workItem from="1616111632856" duration="6392000" />
+      <workItem from="1616251497488" duration="554000" />
+      <workItem from="1616272148648" duration="13304000" />
+      <workItem from="1616366198273" duration="834000" />
+      <workItem from="1616454017744" duration="7509000" />
+      <workItem from="1616532766803" duration="37000" />
+      <workItem from="1616545504128" duration="854000" />
+      <workItem from="1616877154675" duration="12234000" />
+      <workItem from="1616957531760" duration="3579000" />
+      <workItem from="1616982005975" duration="7000" />
+      <workItem from="1617021369125" duration="15000" />
+      <workItem from="1617024298835" duration="13000" />
+      <workItem from="1617059821276" duration="44000" />
+      <workItem from="1617474725901" duration="14991000" />
+      <workItem from="1617546769499" duration="11117000" />
+      <workItem from="1617590031877" duration="19000" />
+      <workItem from="1617653763671" duration="1506000" />
+      <workItem from="1617666518716" duration="6285000" />
+      <workItem from="1617828523705" duration="842000" />
+      <workItem from="1617844224257" duration="2320000" />
+      <workItem from="1617884063527" duration="192000" />
+      <workItem from="1617889757727" duration="994000" />
+      <workItem from="1617923459641" duration="6378000" />
+      <workItem from="1618084813099" duration="12032000" />
+      <workItem from="1618262380305" duration="14946000" />
+      <workItem from="1618281187871" duration="401000" />
+      <workItem from="1618281609470" duration="14000" />
+      <workItem from="1618364771076" duration="2624000" />
+      <workItem from="1618440397651" duration="11787000" />
+      <workItem from="1618671281688" duration="463000" />
+      <workItem from="1618690297861" duration="11112000" />
+      <workItem from="1618712034811" duration="5111000" />
+      <workItem from="1618756827979" duration="1705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
